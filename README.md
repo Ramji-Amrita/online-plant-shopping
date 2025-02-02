@@ -1,2 +1,1 @@
-# online-plant-shopping
-Shopping plant online
+# coding-project-template
