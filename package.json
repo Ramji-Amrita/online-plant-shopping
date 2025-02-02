@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Ramji-Amrita.github.io/shopplantonline",
+  "homepage": "https://ramji-amrita.github.io/shopplantonline",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
